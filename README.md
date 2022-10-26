@@ -14,19 +14,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/buscador-de-cep?color=00BFFF">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/calc-live?color=00BFFF">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/buscador-de-cep?color=00BFFF">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/calc-live?color=00BFFF">
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/buscador-de-cep?color=00BFFF">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/calc-live?color=00BFFF">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/buscador-de-cep?color=00BFFF" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/calc-live?color=00BFFF" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/buscador-de-cep?color=00BFFF" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/calc-live?color=00BFFF" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/buscador-de-cep?color=00BFFF" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/calc-live?color=00BFFF" /> 
 </p>
 
 
@@ -76,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :checkered_flag: Starting ##
 
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/papelaria-caprichos.git
+$ git clone https://github.com/agostinhomarcia/calc-live.git
 # Access
 $ cd papelaria-caprichos
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
