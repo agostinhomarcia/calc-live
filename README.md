@@ -79,7 +79,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/agostinhomarcia/calc-live.git
 # Access
 $ cd papelaria-caprichos
-# The server will initialize in the <http://127.0.0.1:5500/index.html>
+#   <http://127.0.0.1:5500/index.html>
 
 
 ## :memo: License ##
