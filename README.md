@@ -75,11 +75,6 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ## :checkered_flag: Starting ##
 
-# Clone this project
-$ git clone https://github.com/agostinhomarcia/calc-live.git
-# Access
-$ cd papelaria-caprichos
-#   <http://127.0.0.1:5500/index.html>
 
 
 ## :memo: License ##
